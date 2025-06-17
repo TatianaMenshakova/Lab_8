@@ -9,7 +9,7 @@
   position: relative;
 }
 
-nav#main-navbar ul {
+#main-navbar ul {
   list-style-type: none;
   margin: 0;
 	padding: 0;
@@ -18,21 +18,21 @@ nav#main-navbar ul {
   float: left;
 }
 
-nav#main-navbar ul li {
+#main-navbar ul li {
   float: left;
   position: relative;
   right: 50%;
   display: block;
 }
 
-nav#main-navbar ul li a {
+#main-navbar ul li a {
   display: block;
 	padding: 10px 20px;
   color: #fff;
   text-decoration: none;
 }
 
-nav#main-navbar ul li a:hover {
+#main-navbar ul li a:hover {
   background-color: #000;
 }
 
